@@ -5,7 +5,7 @@ util.actionMenu = function(values)
   gg.setVisible(true)
 
   local ch = gg.choice({
-    "Toggle All",
+    "Toggle All99",
     "Patch All",
     "Restore All",
     "Return to Main Menu",
